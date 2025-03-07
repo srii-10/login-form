@@ -76,7 +76,7 @@ button:hover {
 }
 
 /* responsive tablet */
-@media only screen and (max-width: 834px) {
+@media (max-width: 834px) {
     .login-page {
         width: 35%;
         height: 35%;
@@ -92,7 +92,7 @@ button:hover {
 }
 
 /* responsive smartphone */
-@media only screen and (max-width: 480px) {
+@media (max-width: 480px) {
     .login-page {
         width: 45%;
         height: 40%;
