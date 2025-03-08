@@ -75,6 +75,22 @@ button:hover {
     margin-top: 20px;
 }
 
+/* responsive for screen 1440px - 1728px */
+@media screen and (min-width: 1440px) and (max-width: 1728px) {
+    .login-page {
+        width: 20%;
+        height: 45%;
+    }
+
+    h1 {
+        margin-bottom: 30px;
+    }
+
+    button {
+        margin-top: 40px;
+    }
+}
+
 /* responsive tablet */
 @media screen and (max-width: 834px) {
     .login-page {
