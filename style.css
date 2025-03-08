@@ -116,12 +116,12 @@ button:hover {
 
     h1 {
         font-size: 25px;
-        margin-bottom: 20px;
+        margin-bottom: 15px;
     }
 
     button {
         height: 15%;
-        margin-top: 25px;
+        margin-top: 20px;
     }
 
     .google-btn {
