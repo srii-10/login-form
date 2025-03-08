@@ -108,7 +108,7 @@ button:hover {
 }
 
 /* responsive smartphone */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
     .login-page {
         width: 45%;
         height: 40%;
@@ -120,6 +120,7 @@ button:hover {
     }
 
     button {
+        height: 15%;
         margin-top: 25px;
     }
 
