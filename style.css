@@ -119,8 +119,11 @@ button:hover {
         margin-bottom: 15px;
     }
 
+    input {
+        margin: 10px 0;
+    }
+
     button {
-        height: 15%;
         margin-top: 20px;
     }
 
